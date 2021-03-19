@@ -1,0 +1,40 @@
+{
+    "C_Cpp.default.includePath": [
+        "/usr/local/Cellar/libuv/1.41.0/include/",
+        "/usr/local/Cellar/libsodium/1.0.18_1/include",
+        "include"
+    ],
+    "files.associations": {
+        "types.h": "c",
+        "stdio.h": "c",
+        "in.h": "c",
+        "socket.h": "c",
+        "inet.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "uv.h": "c",
+        "__node_handle": "c",
+        "sodium.h": "c",
+        "__bit_reference": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "ios": "c",
+        "iterator": "c",
+        "string": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "stdint.h": "c",
+        "guid.h": "c",
+        "message.h": "c",
+        "bitset": "c",
+        "functional": "c",
+        "memory": "c",
+        "__string": "c",
+        "__locale": "c"
+    }
+}
